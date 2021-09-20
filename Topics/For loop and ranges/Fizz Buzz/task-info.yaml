@@ -4,12 +4,12 @@ files:
   visible: true
   text: |-
     fun main() {
-        // put your code here
+        // write your code here
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/4654#comment
+feedback_link: https://hyperskill.org/learn/step/4679#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Mon, 20 Sep 2021 22:42:39 UTC
+  time: Mon, 20 Sep 2021 23:03:49 UTC
 record: -1

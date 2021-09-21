@@ -1,6 +1,6 @@
 import kotlin.math.abs
 
-fun getLastDigit(a: Int) = a.toString().last()
+fun getLastDigit(a: Int): Int = abs(a % 10)
 
 /* Do not change code below */
 fun main() {

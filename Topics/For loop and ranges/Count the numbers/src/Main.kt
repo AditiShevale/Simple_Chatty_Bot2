@@ -1,13 +1,15 @@
 fun main() {
-    val n = readLine()!!.toInt()
     val a = readLine()!!.toInt()
     val b = readLine()!!.toInt()
+    val n = readLine()!!.toInt()
 
-   for(i in a..b){
+    var sum = 0
+    for (i in a..b) {
+        if (i % n == 0) {
+            sum++
+        }
 
-       if (i%n==0){
 
-       }
-       println(i)
-   }
+    }
+    println(sum)
 }

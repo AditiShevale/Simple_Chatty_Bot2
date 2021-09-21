@@ -8,24 +8,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4694#comment
-status: Failed
+status: Solved
 feedback:
-  message: |+
-    Failed test #1 of 12. Wrong answer
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    4
-    1
-    2
-    3
-    4
-
-    Correct output:
-    YES
-
-    Your code output:
-
-  time: Tue, 21 Sep 2021 01:02:26 UTC
+  message: <html>Correct solution</html>
+  time: Tue, 21 Sep 2021 15:54:30 UTC
 record: -1

@@ -1,16 +1,14 @@
 fun main() {
-    val a = readLine()!!.toInt()
-    val b = readLine()!!.toInt()
-    var sort = 1
-
-    for (i in a..b){
-       if (a<b){
-           println("YES")
-
-       }
-        else{
-            println("NO")
-        }
-
+    val n = readLine()!!.toInt()
+    val list = mutableListOf<Int>()
+    for (i in 1..n) {
+        val number = readLine()!!.toInt()
+        list.add(number)
     }
+    if (list == list.sorted()) {
+        println("YES")
+    } else {
+        println("NO")
+    }
+
 }

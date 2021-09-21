@@ -8,21 +8,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/4653#comment
-status: Failed
+status: Solved
 feedback:
-  message: |+
-    Failed test #1 of 7. Cannot check answer. Perhaps output format is wrong.
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    10
-    20
-    10
-    Correct output:
-    2
-
-    Your code output:
-
-  time: Mon, 20 Sep 2021 23:31:41 UTC
+  message: <html>Correct solution</html>
+  time: Tue, 21 Sep 2021 04:37:07 UTC
 record: -1

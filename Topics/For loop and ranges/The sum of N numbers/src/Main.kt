@@ -1,6 +1,7 @@
 fun main() {
-    val n = readLine()!!.toInt()
-//    val elements = readLine()!!.toInt()
+
+    print(List(readLine()!!.toInt()){ readLine()!!.toInt()}.sum())
+
 
 
 }

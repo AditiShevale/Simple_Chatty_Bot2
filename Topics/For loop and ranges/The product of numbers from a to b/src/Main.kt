@@ -7,4 +7,3 @@ fun main() {
     }
     println(result)
 }
-//fun main() = println((readLine()!!.toLong() until readLine()!!.toLong()).reduce(Long::times))
